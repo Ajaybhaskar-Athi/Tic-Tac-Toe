@@ -4,7 +4,7 @@
 node_modules/
 
 # Parcel cache
-parcel-cache/
+.parcel-cache/
 
 # Distribution directory inside src
 src/dist/
