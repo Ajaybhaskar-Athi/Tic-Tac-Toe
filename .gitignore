@@ -9,5 +9,4 @@ node_modules/
 # Distribution directory inside src
 src/dist/
 
-# normal dist
-dist
+
